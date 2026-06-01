@@ -32,4 +32,15 @@ int main()
         outfile << baris << endl;
 
     }
-    
+    //menutup file apabila telah selesai di tulis
+    outfile.close();
+
+    //membuka file dalam mode membaca
+    ifstream infile;
+
+    //menunjuk ke sebuah file dengan ekstensi .txt
+    infile.open(NamaFile + ".txt", ios::in);
+
+    cout << endl << ">= Membuka dan membaca file" << endl;
+    //kondisi jika file ada
+   
