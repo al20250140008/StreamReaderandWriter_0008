@@ -1,2 +1,22 @@
 ok
 ok
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ StreamReaderandWriter.cpp -o StreamReaderandWriter } ; if ($?) { .\StreamReaderandWriter }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+ok
+
+
+
+
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ exceptionStandart.cpp -o exceptionStandart } ; if ($?) { .\exceptionStandart }
+
+
+
+
+
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ manualExeption.cpp -o manualExeption } ; if ($?) { .\manualExeption }
+
+
+
+
+
