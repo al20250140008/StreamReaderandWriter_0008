@@ -20,3 +20,185 @@ cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ manualExeption.cpp -o manual
 
 
 
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+
+
+
+
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ manualExeption.cpp -o manualExeption } ; if ($?) { .\manualExeption }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ toko elektronik.cpp -o toko elektronik } ; if ($?) { .\toko elektronik }
+
+
+
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ toko elektronik.cpp -o toko elektronik } ; if ($?) { .\toko elektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ toko elektronik.cpp -o toko elektronik } ; if ($?) { .\toko elektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ manualExeption.cpp -o manualExeption } ; if ($?) { .\manualExeption }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ manualExeption.cpp -o manualExeption } ; if ($?) { .\manualExeption }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+ok
+
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ tokoelektronik.cpp -o tokoelektronik } ; if ($?) { .\tokoelektronik }
+cd "d:\StreamReaderandWriter_0008\" ; if ($?) { g++ Toko_Elektronik.cpp -o Toko_Elektronik } ; if ($?) { .\Toko_Elektronik }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
