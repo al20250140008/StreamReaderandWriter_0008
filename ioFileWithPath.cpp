@@ -20,4 +20,16 @@ int main()
     cout << ">= Menulis file, \'q\' untuk keluar" << endl;
 
     //Looping untuk menulis isi file
-   
+    while (true)
+    {
+
+        cout << "- ";
+        //mendapatkan setiap karakter dalam satu baris
+        getline(cin, baris);
+        //kondisi jika baris hanya berisi huruf q
+        if (baris == "q") break;
+        //menulis dan memasukkan nilai dari baris ke dalam file
+        outfile << baris << endl;
+
+    }
+    
